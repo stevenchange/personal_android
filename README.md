@@ -1,2 +1,4 @@
 # personal_android
-for android study
+创建这个项目来对android进行相关学习，可能大多数时候会在window下使用eclipse进行相关android的开发
+
+后续我会创建IOS项目来对IOS开发进行相关学习。
